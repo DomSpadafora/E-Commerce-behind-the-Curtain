@@ -22,7 +22,8 @@
 
   ## Usage
   Using your prefered API building platform please follow the video demonstration below. I used Postman.
-   [Video Demonstration](https://drive.google.com/file/d/1F7gbxSrP7Pf2y_GmI7f2Iu5EnHwz5eFZ/view)
+   [VS Code & Database Demonstration](https://drive.google.com/file/d/1hNiYp021JK1VqWQ7teHnyy7TrUXg54h1/view)
+   [Postman Demonstration](https://drive.google.com/file/d/1F7gbxSrP7Pf2y_GmI7f2Iu5EnHwz5eFZ/view)
 
   ## License 
   This project is licensed under the MIT license.
